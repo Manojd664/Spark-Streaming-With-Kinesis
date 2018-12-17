@@ -1,1 +1,1 @@
-# Spark-Streaming-With-Kinesis
+# Spark-Streaming-With-Kinesis-And-Java
